@@ -1,0 +1,11 @@
+{
+
+    "username": "string",
+    "password": "string",
+    "days_before_assignment_due_1": int,
+    "days_before_assignment_due_2": int,
+    "twofactcode": "string",
+    "updateOnNewAssignmentOnly": true,
+    "chatId": "string",
+    "token": "string"
+}
