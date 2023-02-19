@@ -19,7 +19,7 @@ Telegram API (for alerting students)</br>
 To use the program, instructors should first configure the program with their Moodle and Google Calendar credentials. Then, they can create new assignments in Moodle and the program will automatically sync them with their Google Calendar. Students will receive reminders and notifications of upcoming assignments based on their preferences, which can be customized by the instructor.
 
 <h3> Contributors </h3>
-Clint Eastman
+<a href="https://github.com/ClintEastman01">Clint Eastman</a>
 
 <h3> License </h3>
 This project is licensed under the MIT License.
