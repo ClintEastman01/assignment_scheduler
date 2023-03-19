@@ -5,9 +5,7 @@ This project aims to provide an integrated solution for managing student assignm
 <h3>Key Features</h3>
 Automatic synchronization of assignments from Moodle to Google Calendar
 Customizable notifications and reminders for students
-Integration with Moodle's grading system
 Support for multiple courses and assignments
-Simple and user-friendly interface for instructors
 
 <h3> Dependencies </h3>
 Python 3.11 </br>
@@ -16,7 +14,7 @@ Playwright (for web scrapping) </br>
 Telegram API (for alerting students)</br>
 
 <h3> Usage </h3>
-To use the program, instructors should first configure the program with their Moodle and Google Calendar credentials. Then, they can create new assignments in Moodle and the program will automatically sync them with their Google Calendar. Students will receive reminders and notifications of upcoming assignments based on their preferences, which can be customized by the instructor.
+To use the program, students should first configure the program with their Moodle and Google Calendar credentials. Then, the program will automatically sync them with their Google Calendar. Students will receive reminders and notifications of upcoming assignments based on their preferences, which can be customized by the themselves.
 
 <h3> Contributors </h3>
 <a href="https://github.com/ClintEastman01">Clint Eastman</a>
