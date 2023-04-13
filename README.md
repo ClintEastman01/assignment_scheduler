@@ -1,4 +1,4 @@
-<h1> Project Title: Student Assignment Management System </h1>
+<h1> Student Assignment Management System </h1>
 <h3> Overview </h3>
 This project aims to provide an integrated solution for managing student assignments by combining Moodle services and Google Calendar. The program is built using Python and allows students to automatically sync thier assignments with their Google Calendar. This integration enables students to keep track of upcoming assignments and deadlines, while also allowing students to receive timely reminders of their upcoming work.
 
